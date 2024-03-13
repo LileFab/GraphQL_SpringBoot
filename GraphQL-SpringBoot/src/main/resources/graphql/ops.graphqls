@@ -1,0 +1,9 @@
+# The Root Query for the application
+type Query {
+    getAllPlayers: [Player]
+}
+
+# The Root Mutation for the application
+type Mutation {
+    addPlayer(id: String!, name: String!, age: Int!, height: Int!, team: String!) : Player!
+}
