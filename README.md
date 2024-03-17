@@ -4,7 +4,7 @@
 Cette API GraphQL offre un ensemble de fonctionnalités pour gérer des joueurs et des équipes sportives. Elle expose un ensemble de requêtes et de mutations pour interagir avec les données.
 
 ## Endpoints
-L'API est accessible à l'adresse suivante : http://localhost:8080/graphql
+L'API est accessible à l'adresse suivante : http://localhost:8080/graphiql
 
 
 ## Fonctionnalités
