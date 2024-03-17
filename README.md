@@ -3,6 +3,17 @@
 ## Présentation
 Cette API GraphQL offre un ensemble de fonctionnalités pour gérer des joueurs et des équipes sportives. Elle expose un ensemble de requêtes et de mutations pour interagir avec les données.
 
+# Serveur Java GraphQL
+
+## Installation
+
+1. Clonez le dépôt.
+2. Buil le projet.
+
+## Lancement
+
+- Exécutez le serveur en lançant le fichier : ProjetApplication.
+
 ## Endpoints
 L'API est accessible à l'adresse suivante : http://localhost:8080/graphiql
 
