@@ -2,5 +2,5 @@ type Team {
     id: ID!
     name: String!
     city: String!
-    creationDate: String
+    creationDate: String!
 }
