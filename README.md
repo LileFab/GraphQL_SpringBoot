@@ -8,7 +8,7 @@ Cette API GraphQL offre un ensemble de fonctionnalités pour gérer des joueurs 
 ## Installation
 
 1. Clonez le dépôt.
-2. Buil le projet.
+2. Build le projet.
 
 ## Lancement
 
