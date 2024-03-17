@@ -37,7 +37,7 @@ query {
 Mutations
 Pour ajouter de nouvelles données, vous pouvez envoyer des requêtes POST avec des mutations. Voici un exemple de mutation pour ajouter un joueur :
 
-```
+```graphql
 mutation {
   addPlayer(
     id: "123",
